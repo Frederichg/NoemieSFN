@@ -1,0 +1,4 @@
+Source,SS,DF1,DF2,MS,F,p-unc,p-GG-corr,n2,eps,sphericity,W-spher,p-spher
+phenotype,0.2983,2,14,0.1491,0.6883,0.5187,,0.007,,,,
+Distractor_level,17.2683,9,126,1.9187,16.3137,0.0,0.0,0.4028,0.4893,False,0.0027,0.0036
+Interaction,7.4561,18,126,0.4142,3.522,0.0,,0.1739,,,,

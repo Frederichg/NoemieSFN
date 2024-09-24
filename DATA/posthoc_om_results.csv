@@ -1,0 +1,79 @@
+Contrast,Distractor_level,A,B,Paired,Parametric,T,dof,alternative,p-unc,p-corr,p-adjust,BF10,hedges
+Distractor_level,-,0.16,0.36,True,True,-0.9927,16.0,two-sided,0.3356,1.0,bonf,0.382,-0.3534
+Distractor_level,-,0.16,0.75,True,True,-0.7841,16.0,two-sided,0.4444,1.0,bonf,0.326,-0.2883
+Distractor_level,-,0.16,1.5,True,True,-0.3077,16.0,two-sided,0.7623,1.0,bonf,0.26,-0.0868
+Distractor_level,-,0.16,3.0,True,True,-1.7055,16.0,two-sided,0.1074,1.0,bonf,0.825,-0.6054
+Distractor_level,-,0.16,6.0,True,True,-1.4675,16.0,two-sided,0.1616,1.0,bonf,0.616,-0.4601
+Distractor_level,-,0.16,12.0,True,True,-1.7467,16.0,two-sided,0.0999,1.0,bonf,0.871,-0.5421
+Distractor_level,-,0.16,25.0,True,True,-2.5681,16.0,two-sided,0.0206,0.9285,bonf,2.971,-0.8059
+Distractor_level,-,0.16,50.0,True,True,-2.9576,16.0,two-sided,0.0093,0.4168,bonf,5.727,-1.0139
+Distractor_level,-,0.16,100.0,True,True,-4.2647,16.0,two-sided,0.0006,0.0267,bonf,59.509,-1.4373
+Distractor_level,-,0.36,0.75,True,True,-0.1852,16.0,two-sided,0.8554,1.0,bonf,0.253,-0.0538
+Distractor_level,-,0.36,1.5,True,True,0.903,16.0,two-sided,0.3799,1.0,bonf,0.356,0.2682
+Distractor_level,-,0.36,3.0,True,True,-1.2766,16.0,two-sided,0.22,1.0,bonf,0.499,-0.3931
+Distractor_level,-,0.36,6.0,True,True,-0.7171,16.0,two-sided,0.4836,1.0,bonf,0.312,-0.2501
+Distractor_level,-,0.36,12.0,True,True,-0.9593,16.0,two-sided,0.3517,1.0,bonf,0.372,-0.2367
+Distractor_level,-,0.36,25.0,True,True,-1.5771,16.0,two-sided,0.1343,1.0,bonf,0.702,-0.5485
+Distractor_level,-,0.36,50.0,True,True,-2.8853,16.0,two-sided,0.0108,0.4844,bonf,5.058,-0.8536
+Distractor_level,-,0.36,100.0,True,True,-4.0038,16.0,two-sided,0.001,0.0461,bonf,37.058,-1.3422
+Distractor_level,-,0.75,1.5,True,True,0.7497,16.0,two-sided,0.4643,1.0,bonf,0.319,0.2326
+Distractor_level,-,0.75,3.0,True,True,-0.9552,16.0,two-sided,0.3537,1.0,bonf,0.371,-0.2894
+Distractor_level,-,0.75,6.0,True,True,-0.5,16.0,two-sided,0.6239,1.0,bonf,0.278,-0.1697
+Distractor_level,-,0.75,12.0,True,True,-0.3384,16.0,two-sided,0.7395,1.0,bonf,0.262,-0.1241
+Distractor_level,-,0.75,25.0,True,True,-1.3497,16.0,two-sided,0.1959,1.0,bonf,0.539,-0.3902
+Distractor_level,-,0.75,50.0,True,True,-3.0398,16.0,two-sided,0.0078,0.3512,bonf,6.603,-0.7357
+Distractor_level,-,0.75,100.0,True,True,-4.787,16.0,two-sided,0.0002,0.0091,bonf,152.791,-1.2681
+Distractor_level,-,1.5,3.0,True,True,-1.8226,16.0,two-sided,0.0871,1.0,bonf,0.964,-0.5555
+Distractor_level,-,1.5,6.0,True,True,-1.2801,16.0,two-sided,0.2188,1.0,bonf,0.501,-0.4106
+Distractor_level,-,1.5,12.0,True,True,-1.433,16.0,two-sided,0.1711,1.0,bonf,0.592,-0.4696
+Distractor_level,-,1.5,25.0,True,True,-2.36,16.0,two-sided,0.0313,1.0,bonf,2.127,-0.7456
+Distractor_level,-,1.5,50.0,True,True,-3.2146,16.0,two-sided,0.0054,0.2434,bonf,8.97,-0.9766
+Distractor_level,-,1.5,100.0,True,True,-4.3693,16.0,two-sided,0.0005,0.0215,bonf,71.927,-1.4153
+Distractor_level,-,3.0,6.0,True,True,0.6596,16.0,two-sided,0.5189,1.0,bonf,0.302,0.1116
+Distractor_level,-,3.0,12.0,True,True,0.5818,16.0,two-sided,0.5688,1.0,bonf,0.289,0.2124
+Distractor_level,-,3.0,25.0,True,True,-0.1621,16.0,two-sided,0.8733,1.0,bonf,0.252,-0.0614
+Distractor_level,-,3.0,50.0,True,True,-1.4204,16.0,two-sided,0.1747,1.0,bonf,0.584,-0.481
+Distractor_level,-,3.0,100.0,True,True,-3.1232,16.0,two-sided,0.0066,0.2949,bonf,7.638,-1.0983
+Distractor_level,-,6.0,12.0,True,True,0.2227,16.0,two-sided,0.8266,1.0,bonf,0.255,0.0782
+Distractor_level,-,6.0,25.0,True,True,-0.5705,16.0,two-sided,0.5763,1.0,bonf,0.288,-0.1841
+Distractor_level,-,6.0,50.0,True,True,-1.6613,16.0,two-sided,0.1161,1.0,bonf,0.78,-0.5726
+Distractor_level,-,6.0,100.0,True,True,-3.4056,16.0,two-sided,0.0036,0.1628,bonf,12.593,-1.1585
+Distractor_level,-,12.0,25.0,True,True,-1.1257,16.0,two-sided,0.2769,1.0,bonf,0.43,-0.3224
+Distractor_level,-,12.0,50.0,True,True,-2.2734,16.0,two-sided,0.0371,1.0,bonf,1.858,-0.703
+Distractor_level,-,12.0,100.0,True,True,-3.5902,16.0,two-sided,0.0024,0.1102,bonf,17.535,-1.2507
+Distractor_level,-,25.0,50.0,True,True,-1.5542,16.0,two-sided,0.1397,1.0,bonf,0.683,-0.4629
+Distractor_level,-,25.0,100.0,True,True,-4.04,16.0,two-sided,0.0009,0.0427,bonf,39.573,-1.096
+Distractor_level,-,50.0,100.0,True,True,-2.617,16.0,two-sided,0.0187,0.8409,bonf,3.22,-0.7325
+phenotype,-,GT,IN,False,True,-0.4253,6.0,two-sided,0.6855,1.0,bonf,0.553,-0.2615
+phenotype,-,GT,ST,False,True,0.3549,5.5721,two-sided,0.7357,1.0,bonf,0.498,0.2024
+phenotype,-,IN,ST,False,True,0.6711,3.724,two-sided,0.5415,1.0,bonf,0.55,0.4842
+Distractor_level * phenotype,0.16,GT,IN,False,True,1.7321,6.0,two-sided,0.134,1.0,bonf,1.109,1.065
+Distractor_level * phenotype,0.16,GT,ST,False,True,0.8575,4.6402,two-sided,0.4332,1.0,bonf,0.6,0.5361
+Distractor_level * phenotype,0.16,IN,ST,False,True,-1.5119,8.0,two-sided,0.169,1.0,bonf,0.934,-0.5497
+Distractor_level * phenotype,0.36,GT,IN,False,True,0.6547,6.0,two-sided,0.537,1.0,bonf,0.594,0.4025
+Distractor_level * phenotype,0.36,GT,ST,False,True,0.2245,4.9471,two-sided,0.8314,1.0,bonf,0.486,0.1356
+Distractor_level * phenotype,0.36,IN,ST,False,True,-0.5929,5.6029,two-sided,0.5764,1.0,bonf,0.534,-0.3373
+Distractor_level * phenotype,0.75,GT,IN,False,True,-2.1381,6.0,two-sided,0.0764,1.0,bonf,1.504,-1.3147
+Distractor_level * phenotype,0.75,GT,ST,False,True,-1.0909,8.0,two-sided,0.3071,1.0,bonf,0.686,-0.3967
+Distractor_level * phenotype,0.75,IN,ST,False,True,1.6517,3.7762,two-sided,0.1782,1.0,bonf,1.053,1.1791
+Distractor_level * phenotype,1.5,GT,IN,False,True,0.6547,6.0,two-sided,0.537,1.0,bonf,0.594,0.4025
+Distractor_level * phenotype,1.5,GT,ST,False,True,1.0,4.187,two-sided,0.3715,1.0,bonf,0.649,0.6646
+Distractor_level * phenotype,1.5,IN,ST,False,True,0.2317,4.5957,two-sided,0.8268,1.0,bonf,0.486,0.1456
+Distractor_level * phenotype,3.0,GT,IN,False,True,0.4472,6.0,two-sided,0.6704,1.0,bonf,0.556,0.275
+Distractor_level * phenotype,3.0,GT,ST,False,True,-0.1318,10.9887,two-sided,0.8975,1.0,bonf,0.481,-0.0541
+Distractor_level * phenotype,3.0,IN,ST,False,True,-0.4804,7.417,two-sided,0.6448,1.0,bonf,0.514,-0.2435
+Distractor_level * phenotype,6.0,GT,IN,False,True,0.2182,6.0,two-sided,0.8345,1.0,bonf,0.531,0.1342
+Distractor_level * phenotype,6.0,GT,ST,False,True,-0.4475,10.9872,two-sided,0.6632,1.0,bonf,0.509,-0.1866
+Distractor_level * phenotype,6.0,IN,ST,False,True,-0.6253,10.9118,two-sided,0.5446,1.0,bonf,0.54,-0.2532
+Distractor_level * phenotype,12.0,GT,IN,False,True,1.7321,6.0,two-sided,0.134,1.0,bonf,1.109,1.065
+Distractor_level * phenotype,12.0,GT,ST,False,True,-0.8045,6.9243,two-sided,0.4478,1.0,bonf,0.584,-0.4188
+Distractor_level * phenotype,12.0,IN,ST,False,True,-3.482,8.0,two-sided,0.0083,0.2488,bonf,8.068,-1.2661
+Distractor_level * phenotype,25.0,GT,IN,False,True,-0.6019,6.0,two-sided,0.5693,1.0,bonf,0.583,-0.3701
+Distractor_level * phenotype,25.0,GT,ST,False,True,-0.9037,7.9309,two-sided,0.3928,1.0,bonf,0.614,-0.4464
+Distractor_level * phenotype,25.0,IN,ST,False,True,0.0951,4.0782,two-sided,0.9287,1.0,bonf,0.48,0.0643
+Distractor_level * phenotype,50.0,GT,IN,False,True,-0.4709,6.0,two-sided,0.6544,1.0,bonf,0.559,-0.2895
+Distractor_level * phenotype,50.0,GT,ST,False,True,0.5837,4.3067,two-sided,0.5886,1.0,bonf,0.532,0.3812
+Distractor_level * phenotype,50.0,IN,ST,False,True,1.1743,4.2473,two-sided,0.3019,1.0,bonf,0.725,0.7734
+Distractor_level * phenotype,100.0,GT,IN,False,True,-0.6981,6.0,two-sided,0.5112,1.0,bonf,0.604,-0.4292
+Distractor_level * phenotype,100.0,GT,ST,False,True,0.6162,5.0993,two-sided,0.5642,1.0,bonf,0.538,0.3666
+Distractor_level * phenotype,100.0,IN,ST,False,True,1.2962,4.1861,two-sided,0.2618,1.0,bonf,0.79,0.8616
